@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sharadpal/Daily_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/sharadpal/Daily_Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/sharadpal/Daily_Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
