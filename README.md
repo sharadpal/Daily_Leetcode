@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sharadpal/Daily_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadpal/Daily_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sharadpal/Daily_Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sharadpal/Daily_Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadpal/Daily_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/sharadpal/Daily_Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sharadpal/Daily_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadpal/Daily_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sharadpal/Daily_Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sharadpal/Daily_Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadpal/Daily_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sharadpal/Daily_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sharadpal/Daily_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sharadpal/Daily_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sharadpal/Daily_Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sharadpal/Daily_Leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sharadpal/Daily_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sharadpal/Daily_Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sharadpal/Daily_Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
