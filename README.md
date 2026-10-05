@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sharadpal/Daily_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sharadpal/Daily_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/sharadpal/Daily_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sharadpal/Daily_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/sharadpal/Daily_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/sharadpal/Daily_Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sharadpal/Daily_Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -273,9 +274,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sharadpal/Daily_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sharadpal/Daily_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sharadpal/Daily_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sharadpal/Daily_Leetcode/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sharadpal/Daily_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sharadpal/Daily_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sharadpal/Daily_Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
